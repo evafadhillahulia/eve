@@ -47,12 +47,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=evafadhillahulia&show_icons=true&locale=en&theme=merko" alt="Eva GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evafadhillahulia&theme=merko" alt="Eva GitHub Streak" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=evafadhillahulia&show_icons=true&locale=en&layout=compact&theme=merko" alt="Top Languages" width="40%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evafadhillahulia&show_icons=true&locale=en&layout=compact&theme=merko" alt="Top Languages" width="40%"/>
-</p>
 
 ---
 
