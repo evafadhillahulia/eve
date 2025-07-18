@@ -13,7 +13,7 @@
   🎓 I'm currently pursuing my undergraduate degree at <strong>Dian Nuswantoro University</strong><br>
   🛠️ I'm focused on becoming a skilled <strong>Web Developer</strong><br>
   👨‍💻 You can explore my personal projects on <a href="https://github.com/evafadhillahulia?tab=repositories" target="_blank"><strong>GitHub Repositories</strong></a><br>
-  💬 Open to collaboration and discussion around <strong>technology, UI/UX design, and data</strong><br>
+  💬 Open to collaboration and discussion around <strong>technology and data</strong><br>
   📫 Reach me at: <a href="mailto:evafadhillahulia22@gmail.com"><strong>evafadhillahulia22@gmail.com</strong></a><br>
   🌐 View my portfolio: <a href="https://evafadhillah/" target="_blank"><strong>evafadhillah</strong></a><br>
 </p>
