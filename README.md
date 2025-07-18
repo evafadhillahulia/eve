@@ -40,17 +40,11 @@
   <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"/>
 </p>
 
-
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evafadhillahulia&show_icons=true&locale=en&theme=merko" alt="Eva GitHub Stats" width="45%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evafadhillahulia&show_icons=true&locale=en&layout=compact&theme=merko" alt="Top Languages" width="40%"/>
 </p>
-
-
 ---
 
 ## 📫 Let's Connect
